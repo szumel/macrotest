@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<macro code="test">
+    <step code="pwd"/>
+</macro>
